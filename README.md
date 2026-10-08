@@ -14,7 +14,7 @@ Aplicação web para controlar as encomendas de uma confeitaria. O projeto nasce
 
 ## Prints
 
-![Tela principal](prints/tela-principal.png)
+![Tela principal](tela-principal.png)
 
 ## Tecnologias
 
